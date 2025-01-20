@@ -81,8 +81,8 @@ background-color: white;
 .span2{
 background-color: #EBD96B;
 }
-.circle{
-background-image: url('../img/circle.png');
+.fashion{
+background-image: url('../img/circle2.png');
 background-repeat: no-repeat;
 background-size: cover;
 }
@@ -104,11 +104,7 @@ background-size: cover;
     top: 60px;
 }
 
-.fashion{
-    background-color: #FBFFE4;
-    height: 100vh;
-    padding-top: 30px;    
-}
+
 
 
 
