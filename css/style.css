@@ -107,26 +107,19 @@ background-size: cover;
 .fashion{
     background-color: #FBFFE4;
     height: 100vh;
-    padding-top: 30px;
-
-
-    
+    padding-top: 30px;    
 }
 
 
 
 
 /* carousel */
-.product_image{
-    width: 250px;
-    height: 400px;
-}
-.button{
-    width: 250px;
-    color: white;
-    background-color: black;
 
-}
+
+
+
+
+
 
 /* About us */
 /* .about h3{
@@ -158,9 +151,7 @@ p{
     background-repeat: no-repeat;
     background-size: cover;
 }
-.fabric p{
-    width: 300px;
-}
+
 .arrow .arrow1{
     width: 260px;
     left: 310px;

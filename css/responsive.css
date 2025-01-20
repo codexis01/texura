@@ -1,0 +1,102 @@
+@media (max-width: 1920px) {
+    body{
+        height: 100vh;
+    }
+    .nav-item{
+        font-size: 20px;
+    }
+    h1{
+       width: 600px;
+        font-size: 70px;
+    }
+    h3{
+        font-size: 60px;
+        width: 500px;
+    }
+    .btn{
+        font-size: 20px;
+    }
+    
+    .arrow .arrow1{
+        width: 300px;
+        left: 450px;
+        top: 200px;
+    }
+    .arrow .arrow2{
+        width: 300px;
+        left: 440px;
+        top: 380px;
+    }
+    .weaving_arrow .arrow3{
+        width: 300px;
+        left: 450px;
+        top: 470px;
+    }
+    .weaving_arrow .arrow4{
+        width: 300px;
+        left: 440px;
+        top: 660px;
+    }
+    .tailoring .arrow5{
+        width: 300px;
+        left: 450px;
+        top: 740px;
+    }
+    .tailoring .arrow6{
+        width: 300px;
+        left: 440px;
+        top: 930px;
+    }
+    
+    
+  }
+  @media (max-width: 1280px) {
+    .nav-item{
+        font-size: 16px;
+    }
+    h1{
+       width: 400px;
+        font-size: 50px;
+    }
+    h3{
+        font-size: 40px;
+        width: 300px;
+    }
+    .btn{
+        font-size: 16px;
+    }
+    .arrow .arrow1{
+        width: 260px;
+        left: 310px;
+        top: 210px;
+    }
+    .arrow .arrow2{
+        width: 260px;
+        left: 300px;
+        top: 400px;
+    }
+    .weaving_arrow .arrow3{
+        width: 260px;
+        left: 310px;
+        top: 490px;
+    }
+    .weaving_arrow .arrow4{
+        width: 260px;
+        left: 300px;
+        top: 680px;
+    }
+    .tailoring .arrow5{
+        width: 260px;
+        left: 310px;
+        top: 760px;
+    }
+    .tailoring .arrow6{
+        width: 260px;
+        left: 300px;
+        top: 950px;
+    }
+    .fabric p{
+        width: 300px;
+    }
+    
+  }
